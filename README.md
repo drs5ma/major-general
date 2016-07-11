@@ -1,4 +1,4 @@
-![general.jpg]
+![general](general.jpg)
 
 I am the very model of a modern Major-general
 I've information vegetable, animal, and mineral
